@@ -8,9 +8,9 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Christian Vavuris — Stripe Candidate",
+  title: "Christian Vavuris — Stripe Startup Platforms Candidate",
   description:
-    "Christian Vavuris, Account Executive candidate at Stripe. Ask questions and get answers based on his background.",
+    "Christian Vavuris, Account Executive, Startup Platforms candidate at Stripe. Ask questions and get answers based on his background.",
 };
 
 export default function RootLayout({

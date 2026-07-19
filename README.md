@@ -1,9 +1,9 @@
-# Christian Vavuris — Stripe Candidate Site
+# Christian Vavuris — Stripe Startup Platforms Candidate Site
 
 A single public page: name, LinkedIn, one-line positioning, and a chat panel
 that answers questions about Christian's fit for Stripe's Account Executive,
-Platforms, Grower role — backed by Claude and the same knowledge base as the
-`christian-vavuris-application` skill.
+Startup Platforms role (Platform Velocity Sales team) — backed by Claude and
+the knowledge base in `content/skill-system-prompt.md`.
 
 ## Stack
 
@@ -23,9 +23,10 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Updating the knowledge base
 
-`content/skill-system-prompt.md` is the source of truth for both this app
-and the `christian-vavuris-application` Claude skill. When one is updated,
-copy the change to the other manually.
+`content/skill-system-prompt.md` is the source of truth for this app. It was
+forked from the `christian-vavuris-stripe` template, then retargeted to the
+specific Account Executive, Startup Platforms listing (Platform Velocity
+Sales team).
 
 ## Deployment
 

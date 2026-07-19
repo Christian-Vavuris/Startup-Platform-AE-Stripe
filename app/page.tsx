@@ -4,11 +4,11 @@ import { useEffect, useRef, useState } from "react";
 import ReactMarkdown from "react-markdown";
 
 const SUGGESTED_QUESTIONS = [
-  "What are Christian's top three qualifications as an Account Executive candidate at Stripe?",
-  "Walk me through Christian's role in the Mercury relationship while at Synapse. What does it show about how he would be successful at Stripe?",
-  "How has Christian used cross-platform intelligence to create new opportunities from an existing book?",
-  "How would Christian create new opportunities at target accounts that don't yet have a relationship with Stripe — and what deals from his past demonstrate that approach?",
-  "Stripe's enterprise buyers are CTOs, Founders, Product Professionals, and Executives. How does Christian earn credibility with these personas?",
+  "What are Christian's top three qualifications for the Account Executive, Startup Platforms role?",
+  "Walk me through Christian's role in the Mercury relationship while at Synapse. What does it show about how he'd grow a named account list of platforms already on Stripe Connect?",
+  "How has Christian used cross-platform intelligence to build expansion plans for accounts that hadn't asked for more?",
+  "This role calls for building C-level relationships with CTOs, COOs, and CFOs. How does Christian earn credibility with those personas?",
+  "How does Christian approach full-cycle ownership — from prospecting through closing and post-sale implementation?",
   "How does Christian account for the incentives of partner banks — or Stripe when utilizing its own licenses — when structuring embedded finance deals?",
 ];
 
@@ -90,7 +90,7 @@ export default function Home() {
       <StripeLogo />
 
       <h1 className="mb-8 mt-4 text-3xl font-bold text-[#0a2540] sm:text-4xl">
-        Christian Vavuris, Account Executive Candidate at Stripe
+        Christian Vavuris, candidate for Account Executive, Startup Platforms at Stripe
       </h1>
 
       <div className="text-[17px] leading-[1.75] text-slate-700">
@@ -108,10 +108,11 @@ export default function Home() {
           technology products to businesses of all sizes.
         </p>
         <p className="mb-[18px]">
-          This AI Cover Letter is built to help Stripe teams quickly
-          understand my qualifications as a candidate for Account Executive
-          roles. Use the text box below to ask any questions you&apos;d like
-          about my background and qualifications.
+          This AI Cover Letter is built to help Stripe&apos;s Platform
+          Velocity Sales team quickly understand my qualifications as a
+          candidate for the Account Executive, Startup Platforms role. Use
+          the text box below to ask any questions you&apos;d like about my
+          background and qualifications.
         </p>
         <p>
           Here is a copy of my{" "}
