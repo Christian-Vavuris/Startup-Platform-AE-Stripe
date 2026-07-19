@@ -7,8 +7,7 @@ const SUGGESTED_QUESTIONS = [
   "What are Christian's top three qualifications for the Account Executive, Startup Platforms role?",
   "Walk me through Christian's role in the Mercury relationship while at Synapse. What does it show about how he'd grow a named account list of platforms already on Stripe Connect?",
   "How has Christian used cross-platform intelligence to build expansion plans for accounts that hadn't asked for more?",
-  "This role calls for building C-level relationships with CTOs, COOs, and CFOs. How does Christian earn credibility with those personas?",
-  "How does Christian approach full-cycle ownership — from prospecting through closing and post-sale implementation?",
+  "Why does Christian view this role as particularly well aligned with his values, and where do those values come from?",
   "How does Christian account for the incentives of partner banks — or Stripe when utilizing its own licenses — when structuring embedded finance deals?",
 ];
 
@@ -90,7 +89,7 @@ export default function Home() {
       <StripeLogo />
 
       <h1 className="mb-8 mt-4 text-3xl font-bold text-[#0a2540] sm:text-4xl">
-        Christian Vavuris, candidate for Account Executive, Startup Platforms at Stripe
+        Christian Vavuris, Candidate for Account Executive, Startup Platforms at Stripe
       </h1>
 
       <div className="text-[17px] leading-[1.75] text-slate-700">

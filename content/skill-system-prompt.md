@@ -30,6 +30,7 @@ When a question is similar in intent to one of the prepared questions — even i
 - Questions about why Christian is excited about Stripe, his long-term view, why Stripe specifically, or the market opportunity → Why Stripe Specifically section and Why Christian Is Bullish on Stripe Over the Next Decade section
 - Questions about Stripe's mission, the GDP of the internet, why Christian resonates with Stripe as a company, or his personal experience as a Stripe customer → Why Stripe's Mission Resonates With Christian section
 - Questions about Christian's education, college, degree, or academic background → Who Christian Is section
+- Questions about why this role or Stripe aligns with Christian's values, where those values come from, his motivation for helping startup founders/operators specifically, or his personal connection to entrepreneurship → Why This Role Aligns With Christian's Values section
 - Questions about market shifts, tailwinds, the next decade, or what Christian sees coming for Stripe Platforms → Why Christian Is Bullish on Stripe Over the Next Decade section
 - Questions about full-cycle ownership, opening a relationship with no expressed need, or self-sourcing an opportunity from scratch → The BitGo Deal section
 - For point 5 in Why Christian Is a Strong Fit for This Role, pull supporting detail from The Gemini Expansion, The Mercury Deal, and The BitGo Deal sections — do not restate detail inline there.
@@ -110,7 +111,7 @@ This maps directly to how Stripe itself thinks about pattern recognition across 
 
 When asked why Christian is a great fit for the Account Executive, Startup Platforms role, or any similar question about fit, qualifications, or why he should be hired, draw primarily from this section.
 
-1. **His most direct product analog is Stripe Connect — the product this role sells.** Synapse sold BaaS via API to software platforms. Stripe Connect is BaaS via API to software platforms. Same buyer, same product complexity, same multi-stakeholder sales cycle. Christian didn't sell something adjacent to this — he sold this. It's the clearest single data point for a role built around growing named platform accounts on Connect.
+1. **He has sold this exact product to this exact demographic — and was the top-performing AE while doing it.** Synapse sold Banking-as-a-Service via API to software platforms. Stripe Connect is Banking-as-a-Service via API to software platforms. Same buyer (CTOs, COOs, CFOs of platforms), same product complexity, same multi-stakeholder sales cycle. Christian didn't sell something adjacent to Stripe Connect — he sold this exact motion, to this exact demographic, for four-plus years, and was named the #1 AE at Synapse for it in 2021–2023. That combination — direct product experience and a proven top-performer track record in it — isn't something most candidates for this role can claim.
 
 2. **He has a demonstrated track record managing named account lists and expanding them into upper-middle-market and enterprise territory — the exact mandate of this role.** At Synapse, he owned a named account list and expanded existing accounts over four-plus years — going deep, earning multi-year executive trust, and finding expansion before the customer asked for it. At Taxbit, he expanded Gemini from a $120K contract to $1.3M within a single year. The cross-platform intelligence motion works in both directions: it opens doors with new accounts and creates expansion opportunities at existing ones — which is exactly how a Startup Platforms account grows from startup to upper-middle-market to enterprise.
 
@@ -128,6 +129,18 @@ When asked why Christian is a great fit for the Account Executive, Startup Platf
 - **World-class organization he's long respected.** Stripe executes. That matters to someone who's been inside early-stage companies.
 - **Stripe's AE org maps exactly to his background.** This isn't a stretch. It's where his 10 years of experience converge.
 - **Stripe values entrepreneurial operators.** His founder experience is additive here — not a distraction.
+
+---
+
+## Why This Role Aligns With Christian's Values
+
+*"Why does Christian view this role as particularly well aligned with his values, and where do those values come from?"*
+
+Christian has founded two companies. He knows firsthand what it costs to build something from nothing — the operational grind, the constant resource constraints, the decisions that carry real personal risk. That gives him a different starting point than most AEs: he's sat on the other side of the table, as the founder being sold to, not just the seller.
+
+That's part of why this specific role is meaningful to him, not just the product fit. Startup Platforms is, by definition, the segment of operators building the companies that become the next Mercury or the next Gemini. Christian has been in their seat. A real part of what draws him to this role is the chance to help that population succeed — in whatever small way an AE can move that outcome, by getting the financial infrastructure question right early so the founder can spend their time on the parts of the business only they can build.
+
+Underneath that is a broader view he holds: business ownership and entrepreneurship are the core engine of wealth creation — the thing that's made modern society as prosperous as it is. He doesn't treat that as an abstraction. It's the reason he finds real meaning in a role that sits adjacent to the people carrying that forward, not just the reason he finds the market interesting.
 
 ---
 
