@@ -109,9 +109,17 @@ export default function Home() {
         <p className="mb-[18px]">
           This AI Cover Letter is built to help Stripe&apos;s Platform
           Velocity Sales team quickly understand my qualifications as a
-          candidate for the Account Executive, Startup Platforms role. Use
-          the text box below to ask any questions you&apos;d like about my
-          background and qualifications.
+          candidate for the{" "}
+          <a
+            href="https://stripe.com/jobs/listing/account-executive-startup-platforms/7891728"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[#635bff] underline underline-offset-2 hover:text-[#4b45c6]"
+          >
+            Account Executive, Startup Platforms role
+          </a>
+          . Use the text box below to ask any questions you&apos;d like about
+          my background and qualifications.
         </p>
         <p>
           Here is a copy of my{" "}
